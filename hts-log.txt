@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Aug 2023 10:33:41 at http://deothemes.com/envato/sedona/html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://deothemes.com/envato/sedona/html/index.html -O1 "C:\My Web Sites\Sedona Option 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:34:56	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/img/apple-touch-icon.png (from deothemes.com/envato/sedona/html/index.html)
+10:37:21	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/masonry/1.jpg (from deothemes.com/envato/sedona/html/index.html)
+10:37:22	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/masonry/3.jpg (from deothemes.com/envato/sedona/html/index.html)
+10:37:26	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/revolution/js/jquery.themepunch.tools.min.js (from deothemes.com/envato/sedona/html/index.html)
+10:37:26	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/fonts/ui-icons.svg?31292061 (from deothemes.com/envato/sedona/html/css/font-icons.css)
+10:37:26	Warning: 	File not parsed, looks like binary: deothemes.com/envato/sedona/html/revolution/css/openhand.cur
+10:37:26	Warning: 	File not parsed, looks like binary: deothemes.com/envato/sedona/html/revolution/css/closedhand.cur
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/revolution/assets/gridtile.png (from deothemes.com/envato/sedona/html/revolution/css/settings.css)
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/revolution/assets/gridtile_white.png (from deothemes.com/envato/sedona/html/revolution/css/settings.css)
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/revolution/assets/gridtile_3x3.png (from deothemes.com/envato/sedona/html/revolution/css/settings.css)
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/revolution/assets/gridtile_3x3_white.png (from deothemes.com/envato/sedona/html/revolution/css/settings.css)
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/revolution/assets/coloredbg.png (from deothemes.com/envato/sedona/html/revolution/css/settings.css)
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/revolution/assets/loader.gif (from deothemes.com/envato/sedona/html/revolution/css/settings.css)
+10:37:26	Error: 	"Not Found" (404) at link deothemes.com/envato/sedona/html/css/owl.video.play.png (from deothemes.com/envato/sedona/html/css/style.css)
+10:37:26	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/v-2/1.jpg (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:27	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/v-2/2.jpg (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:28	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/services/4.jpg (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:28	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/team/2.jpg (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:34	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/js/gmap3.min.js (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:35	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/revolution/home-3/2.jpg (from deothemes.com/envato/sedona/html/index-3.html)
+10:37:35	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/services/v-2/1.jpg (from deothemes.com/envato/sedona/html/index-3.html)
+10:37:35	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/services/v-2/5.jpg (from deothemes.com/envato/sedona/html/services.html)
+10:37:38	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/services/single/2.jpg (from deothemes.com/envato/sedona/html/single-service.html)
+10:37:40	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/1.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:40	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/3.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:41	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/5.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:41	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/8.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:41	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/10.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:42	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/12.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:45	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/15.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/blog/v-2/post_1.jpg (from deothemes.com/envato/sedona/html/blog.html)
+10:37:48	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/blog/v-2/post_3.jpg (from deothemes.com/envato/sedona/html/blog.html)
+10:37:49	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/blog/post_img_2.jpg (from deothemes.com/envato/sedona/html/single-post.html)
+10:37:49	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/revolution/js/jquery.themepunch.tools.min.js (from deothemes.com/envato/sedona/html/index.html)
+10:37:50	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/v-2/2.jpg (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:50	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/js/gmap3.min.js (from deothemes.com/envato/sedona/html/index-2.html)
+10:37:52	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/revolution/home-3/2.jpg (from deothemes.com/envato/sedona/html/index-3.html)
+10:37:56	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/3.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:56	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/portfolio/8.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:37:57	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/blog/v-2/post_1.jpg (from deothemes.com/envato/sedona/html/blog.html)
+10:37:58	Warning: 	Retry after error -4 (No data (connection closed)) at link deothemes.com/envato/sedona/html/img/blog/post_img_2.jpg (from deothemes.com/envato/sedona/html/single-post.html)
+10:37:58	Error: 	"No data (connection closed)" (-4) after 2 retries at link deothemes.com/envato/sedona/html/img/portfolio/v-2/2.jpg (from deothemes.com/envato/sedona/html/index-2.html)
+10:38:04	Error: 	"No data (connection closed)" (-4) after 2 retries at link deothemes.com/envato/sedona/html/img/portfolio/3.jpg (from deothemes.com/envato/sedona/html/portfolio-gallery.html)
+10:38:04	Error: 	"No data (connection closed)" (-4) after 2 retries at link deothemes.com/envato/sedona/html/img/blog/v-2/post_1.jpg (from deothemes.com/envato/sedona/html/blog.html)
+10:38:04	Error: 	"No data (connection closed)" (-4) after 2 retries at link deothemes.com/envato/sedona/html/img/blog/post_img_2.jpg (from deothemes.com/envato/sedona/html/single-post.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 23 seconds : 185 links scanned, 141 files written (7330608 bytes overall) [6266802 bytes received at 23828 bytes/sec], 1751546 bytes transferred using HTTP compression in 53 files, ratio 25%, 3.1 requests per connection
+(12 errors, 33 warnings, 0 messages)
